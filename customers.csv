@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,email,city,country,signup_date,gender
+C001,Alice,Sharma,alice.sharma@email.com,Bangalore,India,15-01-2022,Female
+C002,Bob,Patel,bob.patel@email.com,Mumbai,India,30-11-2021,Male
+C003,Carol,Singh,carol.singh@email.com,Delhi,India,10-03-2022,Female
+C004,Dave,Rao,dave.rao@email.com,Hyderabad,India,22-07-2021,Male
+C005,Eve,Fernandes,eve.fernandes@email.com,Goa,India,05-02-2022,Female
+C006,Frank,Iyer,frank.iyer@email.com,Chennai,India,17-05-2022,Male
+C007,Grace,Kumar,grace.kumar@email.com,Kolkata,India,08-12-2021,Female
+C008,Henry,Das,henry.das@email.com,Pune,India,25-04-2022,Male
+C009,Irene,Mehta,irene.mehta@email.com,Jaipur,India,30-06-2022,Female
+C010,Jack,Nair,jack.nair@email.com,Kochi,India,01-07-2022,Male

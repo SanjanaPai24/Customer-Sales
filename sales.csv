@@ -1,0 +1,16 @@
+transaction_id,customer_id,product,category,quantity,unit_price,transaction_date,payment_method
+T001,C001,Pen,Stationery,10,5,16-01-2022,Cash
+T002,C002,Notebook,Stationery,3,50,17-01-2022,Credit Card
+T003,C001,Bag,Accessories,1,1200,20-02-2022,Debit Card
+T004,C003,Pen,Stationery,5,5,15-03-2022,Cash
+T005,C004,T-Shirt,Clothing,2,400,25-01-2022,Ewallet
+T006,C005,Shoes,Footwear,1,2000,10-02-2022,Credit Card
+T007,C001,Notebook,Stationery,2,50,28-02-2022,Cash
+T008,C006,T-Shirt,Clothing,3,400,20-05-2022,Debit Card
+T009,C007,Bag,Accessories,1,1200,12-06-2022,Credit Card
+T010,C008,Shoes,Footwear,2,2000,28-04-2022,Ewallet
+T011,C003,Cap,Accessories,4,200,25-03-2022,Cash
+T012,C009,Pen,Stationery,20,5,30-06-2022,Ewallet
+T013,C010,Shoes,Footwear,1,2000,05-07-2022,Credit Card
+T014,C004,Notebook,Stationery,5,50,30-01-2022,Cash
+T015,C005,T-Shirt,Clothing,2,400,15-02-2022,Debit Card
