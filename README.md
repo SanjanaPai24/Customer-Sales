@@ -1,18 +1,25 @@
 # Customer-Sales
 
-Welcome to the **Customer-Sales** repository! 
+Welcome to the **Customer-Sales** repository!  
+
 This repository provides scripts and data related to analyzing customer and sales data. 
 This project demonstrates the ETL(Extract, Transform, Load) activities and data analysis on the customers and sales file.
 Designed as a portfolio project, it highlights best practices in data engineering.
 
 ## 📊 Project Overview
 
-The project contains Python code for loading, processing, and analyzing sales/customer CSVs, as well as T‑SQL scripts for database‑side operations.
-**`Customer-Sales`**
-├── **`Python Scripts`**
-      - Extract-01 has scripts to extract data from CSV files and load to staging tables
-      - Transform_02 has scripts to clean up data from the staging tables
-      - Load_03 had scripts to load the cleaned up data to SQL Database (SQL Server DB)
+The project contains Python code for loading, processing, and analyzing sales/customer CSVs, as well as T‑SQL scripts for database‑side operations.  
+
+**`Customer-Sales`**  
+
+├── **`Python Scripts`**  
+
+      - Extract-01 has scripts to extract data from CSV files and load to staging tables  
+      
+      - Transform_02 has scripts to clean up data from the staging tables  
+      
+      - Load_03 had scripts to load the cleaned up data to SQL Database (SQL Server DB)  
+      
 ├── **`SQL Scripts`**
       - Data Analysis is used to perfprm basic and necessary analysis on the customer and sales data     
 ├── **`customers.csv`**
